@@ -4,6 +4,7 @@
 package Recursion;
 
 public class recursion {
+  	public static long recursion(long x){
   
   
   
